@@ -36,18 +36,21 @@ function App() {
           <footer className="border-top py-4 mt-5">
             <small className="d-flex justify-content-center">
               <a
-                href="#"
+                href="https://github.com/Cathella"
                 className="no-decoration me-4 text-muted text-uppercase"
               >
                 Github
               </a>
               <a
-                href="#"
+                href="https://twitter.com/cathella9"
                 className="no-decoration me-4 text-muted text-uppercase"
               >
                 Twitter
               </a>
-              <a href="#" className="no-decoration text-muted text-uppercase">
+              <a
+                href="https://www.linkedin.com/in/nakitto-catherine2020/"
+                className="no-decoration text-muted text-uppercase"
+              >
                 LinkedIn
               </a>
             </small>
